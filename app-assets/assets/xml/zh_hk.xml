@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>en</language>
+    <embedFonts>true</embedFonts>
+    <intro>
+        <title callOutWidth="800"  x="146" y="40" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[遇見一款完美的平板電腦後，]]></title>
+        <title callOutWidth="500"  x="226" y="78" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[一切便皆有]]></title>
+        <title callOutWidth="500"  x="456" y="135" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[可能。]]></title>
+        <headline callOutWidth="800"  x="38" y="39" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[遇見我們的超有成就系列。]]></headline>
+        <subhead callOutWidth="500"  x="38" y="107" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[Dell 平板電腦為您提供極大的選擇靈活性，可令您以最自然的方式進行連接、存取及分享資料。]]></subhead>
+        <cta callOutWidth="500"  x="38" y="160" color="0x0085c3" expandDirection="expandDown" backgroundAlpha="0" ><![CDATA[探索 ›]]></cta>
+    </intro>
+    <shell>
+        <nav>
+        	<topLabel x="29"><![CDATA[工作]]></topLabel>
+        	<bottomLabel x="28"><![CDATA[玩樂]]></bottomLabel>
+            <item id="0" progressBarWidth="112">
+                <title><![CDATA[Dell Venue 11 Pro]]></title>
+                <descr><![CDATA[專業的動力站]]></descr>
+            </item>
+            <item id="1"  progressBarWidth="112">
+                <title><![CDATA[Dell Venue 8 Pro]]></title>
+                <descr><![CDATA[高生產力的伴侶]]></descr>
+            </item>
+            <item id="2"  progressBarWidth="84">
+                <title><![CDATA[Dell Venue 8]]></title>
+                <descr><![CDATA[深受人們的喜愛]]></descr>
+            </item>
+            <item id="3" progressBarWidth="84">
+                <title><![CDATA[Dell Venue 7]]></title>
+                <descr><![CDATA[深受人們的喜愛]]></descr>
+            </item>
+        </nav>
+        <buttons>
+        	<threeSixtyIcon>
+                <label><![CDATA[]]></label>
+            </threeSixtyIcon>
+            <cameraIcon>
+                <label><![CDATA[功能庫]]></label>
+            </cameraIcon>
+        </buttons>
+    </shell>
+    
+    <products>
+	    <productScreen name="11pro">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 11 Pro]]></title>
+	            <descr><![CDATA[Windows 8.1 專業動力站]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="245" y="20" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[出色的清晰度  ]]></headline>
+						<subhead><![CDATA[透過 Dell Active Stylus 支持的 10.8" 全高清 1080p 10 點觸控顯示器。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="270" x="265" y="40" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[全尺寸鍵盤靈活性]]></headline>
+						<subhead><![CDATA[全尺寸可分開鍵盤使將您的平板電腦很容易變為膝上型電腦，並具有全部連接功能。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="290" x="290" y="40" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[動力十足]]></headline>
+						<subhead><![CDATA[電池壽命長達 10 小時，亦有更換電池備用。 新增可選內嵌電池行動鍵盤，充電間隔更長，行走得更遠。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="360" x="530" y="35" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[會議科技]]></headline>
+						<subhead><![CDATA[透過 2mp (前)/8mp (後) 相機進行遠端會談，SRS 優質音訊和彈性噪音消除功能，視訊會議和軟體電話。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="4" callOutWidth="300" x="230" y="0" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[性能高 ]]></headline>
+						<subhead><![CDATA[強大的 Intel® Atom™ 處理器 (2.4GHz Quad Core)，更快的執行速度。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="8pro">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 8 Pro]]></title>
+	            <descr><![CDATA[Windows 8.1 作業系統，極高生產力伴侶]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300" x="245" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[外觀精緻，清晰度高]]></headline>
+						<subhead><![CDATA[透過 10 點多觸控 8" HD IPS (1280x800) 顯示器，盡情享用您的應用程式。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="560" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[拍照錄影]]></headline>
+						<subhead><![CDATA[用 5 MP 後置鏡頭拍照錄影，用 1.2 MP 前置相機進行視訊聊天。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="340"  x="580" y="60" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[更新作業系統]]></headline>
+						<subhead><![CDATA[體驗新舊應用程式，如 Netflix® Windows 8.1 版的增強功能。 ]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="300"  x="305" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[性能高]]></headline>
+						<subhead><![CDATA[全速超越第 4 代 Intel® Atom™ 處理器 (1.8GHz Quad Core™) 和完整 Windows 8.1 (32 位元)。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="4" callOutWidth="300" x="630" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[高生產力的助推器]]></headline>
+						<subhead><![CDATA[可選無線鍵盤罩和 Dell Active Stylus 為簡易註釋提供支持。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="8">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 8]]></title>
+	            <descr><![CDATA[Android 作業系統深得公眾喜愛]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="615" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[高解析度]]></headline>
+						<subhead><![CDATA[前後兩個相機，像素分別為 2 MP 和 5 MP，在 8" HD (1280x800) 顯示器上盡情享受您的應用。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[強大的娛樂機]]></headline>
+						<subhead><![CDATA[享受 Intel® Atom™ 處理器 (2.0GHz Dual Core™) 高效能。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="300"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[輕薄時尚]]></headline>
+						<subhead><![CDATA[厚度不到 9.5mm，您可以將其放在膝蓋上玩您最愛的 Android 遊戲，或裝在包包中欣賞著音樂，準備出發。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="400"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[動力十足]]></headline>
+						<subhead><![CDATA[看電影，玩遊戲或掌握社交媒體資訊，電池壽命長達 10 小時。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="7">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 7]]></title>
+	            <descr><![CDATA[Android 作業系統深得公眾喜愛]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="265" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[顯示器色彩逼真生動]]></headline>
+						<subhead><![CDATA[前後兩個相機，在 7" HD (1280x800) 顯示器上拍照或錄影。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="595" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[強大的娛樂機]]></headline>
+						<subhead><![CDATA[享受 Intel® Atom 處理器 (1.6GHz Dual Core 高效能。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="300"  x="530" y="40" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[輕薄時尚]]></headline>
+						<subhead><![CDATA[厚度不到 9.5mm，您可以將其放在膝蓋上玩您最愛的 Android 遊戲，或裝在包包中欣賞著音樂，準備出發。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="300"  x="565" y="25" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[動力十足]]></headline>
+						<subhead><![CDATA[看電影，玩遊戲或掌握社交媒體資訊，電池壽命長達 10 小時。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+	</products>
+	
+</copy>

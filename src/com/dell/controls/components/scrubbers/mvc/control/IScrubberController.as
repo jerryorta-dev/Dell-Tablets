@@ -1,0 +1,1 @@
+﻿package com.dell.controls.components.scrubbers.mvc.control {import com.dell.events.UIEvent;import flash.geom.Rectangle;public interface IScrubberController {    function updateHandler( value:Number ):void;    function completeHandler( value:Number ):void;    function rangeHandler(rangeObject:Rectangle):void;}}

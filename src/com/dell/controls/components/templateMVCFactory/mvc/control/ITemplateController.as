@@ -1,0 +1,1 @@
+﻿package com.dell.controls.components.templateMVCFactory.mvc.control {import com.dell.events.UIEvent;public interface ITemplateController {        function viewEventHandler(event:UIEvent):void	}}

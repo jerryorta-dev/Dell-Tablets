@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>zh</language>
+    <embedFonts>true</embedFonts>
+    <intro>
+        <title callOutWidth="800"  x="146" y="40" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[当您遇到最适合您的平板电脑时，]]></title>
+        <title callOutWidth="500"  x="280" y="78" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[一切]]></title>
+        <title callOutWidth="500"  x="370" y="135" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[皆有可能。]]></title>
+        <headline callOutWidth="800"  x="38" y="39" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[了解我们的佼佼者系列。]]></headline>
+        <subhead callOutWidth="500"  x="38" y="107" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[戴尔平板电脑可提供更大的灵活性和更多的选择权，使您可以通过最自然的方式轻松连接、访问和共享。]]></subhead>
+        <cta callOutWidth="500"  x="38" y="160" color="0x0085c3" expandDirection="expandDown" backgroundAlpha="0" ><![CDATA[探索 ›]]></cta>
+    </intro>
+    <shell>
+        <nav>
+        	<topLabel x="27"><![CDATA[工作]]></topLabel>
+        	<bottomLabel x="29"><![CDATA[娱乐]]></bottomLabel>
+            <item id="0" progressBarWidth="112">
+                <title><![CDATA[Dell Venue 11 Pro]]></title>
+                <descr><![CDATA[专业的动力之源]]></descr>
+            </item>
+            <item id="1"  progressBarWidth="112">
+                <title><![CDATA[Dell Venue 8 Pro]]></title>
+                <descr><![CDATA[工作效率的完美伴侣]]></descr>
+            </item>
+            <item id="2"  progressBarWidth="84">
+                <title><![CDATA[Dell Venue 8]]></title>
+                <descr><![CDATA[赢得众人喜爱]]></descr>
+            </item>
+            <item id="3" progressBarWidth="84">
+                <title><![CDATA[Dell Venue 7]]></title>
+                <descr><![CDATA[赢得众人喜爱]]></descr>
+            </item>
+        </nav>
+        <buttons>
+        	<threeSixtyIcon>
+                <label><![CDATA[]]></label>
+            </threeSixtyIcon>
+            <cameraIcon>
+                <label><![CDATA[功能丰富]]></label>
+            </cameraIcon>
+        </buttons>
+    </shell>
+    
+    <products>
+	    <productScreen name="11pro">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 11 Pro]]></title>
+	            <descr><![CDATA[Windows 8.1的专业动力之源]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="245" y="20" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[超凡清晰  ]]></headline>
+						<subhead><![CDATA[凭借支持戴尔有源手写笔和10点触控功能的10.8英寸全高清1080p显示屏，获得更大的可视空间。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="270" x="265" y="40" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[全面的灵活性]]></headline>
+						<subhead><![CDATA[借助可拆卸的全尺寸键盘，平板电脑可以轻松变身具备完整坞站功能的笔记本电脑。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="290" x="290" y="40" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[功能强劲]]></headline>
+						<subhead><![CDATA[长达10小时的电池续航时间，外加可更换电池，让您长久保持充足电力。 此外还可以选配具有嵌入式电池的移动键盘，实现更长电池续航时间。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="360" x="530" y="35" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[会议技术]]></headline>
+						<subhead><![CDATA[利用200万像素（前置）/800万像素（后置）摄像头、SRS顶级音效系统，以及2个用于视频会议和软电话的自适应降噪麦克风，远程召开会议。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="4" callOutWidth="300" x="230" y="0" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[高性能 ]]></headline>
+						<subhead><![CDATA[利用强大的英特尔®凌动™处理器（2.4 GHz四核），大幅提升速度。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="8pro">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 8 Pro]]></title>
+	            <descr><![CDATA[Windows 8.1的终极工作效率伴侣]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300" x="245" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[完美的清晰度]]></headline>
+						<subhead><![CDATA[8英寸高清IPS (1280 x 800)显示屏支持10点触控功能，可供您尽享完美的应用程序体验。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="560" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[拍摄照片]]></headline>
+						<subhead><![CDATA[利用500万像素后置镜头拍摄照片和视频，利用120万像素前置摄像头进行视频聊天。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="340"  x="580" y="60" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[更新的操作系统]]></headline>
+						<subhead><![CDATA[借助Windows 8.1，体验当前和旧式应用程序（例如Netflix®）的增强功能。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="300"  x="305" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[高性能]]></headline>
+						<subhead><![CDATA[利用第四代智能英特尔®凌动™处理器（1.8 GHz四核™）和完整版Windows 8.1（32位），全速运行，体验超高性能。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="4" callOutWidth="300" x="630" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[提升工作效率的利器]]></headline>
+						<subhead><![CDATA[可选的无线键盘套装和戴尔有源手写笔可帮助您轻松地添加注释。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="8">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 8]]></title>
+	            <descr><![CDATA[配备的Android系统让它赢得众人的喜爱]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="615" y="10" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[高分辨率]]></headline>
+						<subhead><![CDATA[利用前置（200万像素）和后置（500万像素）摄像头，在8英寸高清(1280x800)显示屏上尽享丰富的应用程序功能。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[强势配置]]></headline>
+						<subhead><![CDATA[英特尔®凌动™处理器（2.0 GHz双核™）可提供极高性能。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="300"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[轻薄]]></headline>
+						<subhead><![CDATA[厚度只有不到9.5毫米，您可以将其放在膝盖上，畅玩您最喜爱的Android游戏，或者将其放入包里随处携带。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="400"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[功能强劲]]></headline>
+						<subhead><![CDATA[长达10小时的电池续航时间让您可以尽情地观看电影、畅玩游戏或者浏览社交网站。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="7">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 7]]></title>
+	            <descr><![CDATA[配备的Android系统让它赢得众人的喜爱]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="265" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[逼真显示]]></headline>
+						<subhead><![CDATA[7英寸高清(1280x800)显示屏配有前置和后置摄像头，可帮助您轻松拍摄照片或视频。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="595" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[强势配置]]></headline>
+						<subhead><![CDATA[英特尔®凌动处理器（1.6 GHz双核）可提供极高性能。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="300"  x="530" y="40" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[轻薄]]></headline>
+						<subhead><![CDATA[厚度只有不到9.5毫米，您可以将其放在膝盖上，畅玩您最喜爱的Android游戏，或者将其放入包里随处携带。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="300"  x="565" y="25" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[功能强劲]]></headline>
+						<subhead><![CDATA[长达10小时的电池续航时间让您可以尽情地观看电影、畅玩游戏或者浏览社交网站。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+	</products>
+	
+</copy>

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>ja</language>
+    <embedFonts>true</embedFonts>
+    <intro>
+        <title callOutWidth="800"  x="146" y="40" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[自分にぴったりのタブレットを見つけたら、]]></title>
+        <title callOutWidth="500"  x="226" y="78" color="0x444444" expandDirection="expandDown" backgroundAlpha="0" ><![CDATA[どんなことも]]></title>
+        <title callOutWidth="500"  x="456" y="135" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[可能です。]]></title>
+        <headline callOutWidth="800"  x="38" y="19" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[優れたパフォーマンスを発揮するタブレットファミリー登場。]]></headline>
+        <subhead callOutWidth="500"  x="38" y="115" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[デルのタブレットは、柔軟性に優れているだけでなく、選択肢も豊富。ユーザーに最適な方法で簡単に接続、アクセス、および共有することができます。]]></subhead>
+        <cta callOutWidth="550"  x="38" y="190" color="0x0085c3" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[詳細はこちら ›]]></cta>
+    </intro>
+    <shell>
+        <nav>
+        	<topLabel x="15"><![CDATA[仕事にも]]></topLabel>
+        	<bottomLabel x="5"><![CDATA[プライベートにも]]></bottomLabel>
+            <item id="0" progressBarWidth="112">
+                <title><![CDATA[Dell Venue 11 Pro]]></title>
+                <descr><![CDATA[高性能でプロフェッショナル向け]]></descr>
+            </item>
+            <item id="1"  progressBarWidth="112">
+                <title><![CDATA[Dell Venue 8 Pro]]></title>
+                <descr><![CDATA[生産性を向上させる強い味方]]></descr>
+            </item>
+            <item id="2"  progressBarWidth="84">
+                <title><![CDATA[Dell Venue 8]]></title>
+                <descr><![CDATA[誰もが惹きつけられる製品]]></descr>
+            </item>
+            <item id="3" progressBarWidth="84">
+                <title><![CDATA[Dell Venue 7]]></title>
+                <descr><![CDATA[誰もが惹きつけられる製品]]></descr>
+            </item>
+        </nav>
+        <buttons>
+        	<threeSixtyIcon>
+                <label><![CDATA[]]></label>
+            </threeSixtyIcon>
+            <cameraIcon>
+                <label><![CDATA[豊富な機能を搭載]]></label>
+            </cameraIcon>
+        </buttons>
+    </shell>
+    
+    <products>
+	    <productScreen name="11pro">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 11 Pro]]></title>
+	            <descr><![CDATA[Windows 8.1搭載の高性能なプロフェッショナル向け製品]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="245" y="20" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[明るく鮮明な画像  ]]></headline>
+						<subhead><![CDATA[デルのアクティブスタイラスをサポートし、10点タッチ機能を備えた10.8インチのフルHD 1080pで鮮明な画像をお楽しみいただけます。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="270" x="265" y="40" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[優れた柔軟性]]></headline>
+						<subhead><![CDATA[優れたドッキング機能により、取り外し可能なフルサイズキーボードを使えば、タブレットからノートパソコンへ簡単に切り替えることができます。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="290" x="290" y="40" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[長時間楽しめる]]></headline>
+						<subhead><![CDATA[最大10時間のバッテリ持続時間で電源を確保し、スワップ対応のバッテリをサポートします。 内蔵バッテリを搭載したモバイルキーボード（オプション）を追加すると、1回の充電での稼働時間がさらに長くなります。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="360" x="530" y="35" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[会議に最適なテクノロジー]]></headline>
+						<subhead><![CDATA[ビデオ会議やソフトフォン向けの2メガピクセル（前面）/8メガピクセル（背面）カメラ、マイクを2つ使用するSRSプレミアムオーディオ、および適応ノイズキャンセリング機能を備えているため、遠隔地にいる人とのミーティングも快適です。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="4" callOutWidth="300" x="230" y="0" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[ハイパフォーマンス ]]></headline>
+						<subhead><![CDATA[パワフルなインテル® Atom™プロセッサー（2.4 GHzクアッドコア）でスピードが飛躍的に向上します。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="8pro">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 8 Pro]]></title>
+	            <descr><![CDATA[Windows 8.1搭載、最高の生産性を実現する強い味方]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300" x="245" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[コンパクトで鮮やか]]></headline>
+						<subhead><![CDATA[10点マルチタッチ対応の8インチHD IPS（1,280 x 800）ディスプレイがあれば、アプリの操作も思いのままです。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="560" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[写真/動画オプション]]></headline>
+						<subhead><![CDATA[5メガピクセルの背面カメラでスナップ写真やビデオを撮影したり、1.2メガピクセルの前面カメラでビデオチャットを行うことができます。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="340"  x="580" y="60" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[最新のオペレーティングシステム]]></headline>
+						<subhead><![CDATA[Windows 8.1で、Netflix®などの最新および従来のアプリ向けに強化された機能を体験してください。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="300"  x="305" y="18" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[ハイパフォーマンス]]></headline>
+						<subhead><![CDATA[第4世代インテル® Atom™プロセッサー（1.8 GHzクアッドコア™）および完全なWindows 8.1（32ビット）でいつでもフルスピードの高速処理を実現。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="4" callOutWidth="300" x="630" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[生産性を飛躍的に向上]]></headline>
+						<subhead><![CDATA[オプションのワイヤレスキーボードケースとデルのアクティブスタイラスは、簡単に注釈をつけるためのサポートを提供します。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="8">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 8]]></title>
+	            <descr><![CDATA[Android搭載の魅力的な一台]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="600" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[高解像度]]></headline>
+						<subhead><![CDATA[ディスプレイの前面（2メガピクセル）および背面（5メガピクセル）にカメラを搭載した8インチHD（1,280 x 800）で、お使いのアプリをお楽しみいただけます。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[頼りになる1台]]></headline>
+						<subhead><![CDATA[インテル® Atom™プロセッサー（2.0 GHzデュアルコア）でハイパフォーマンスをお約束します。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="300"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[薄型軽量]]></headline>
+						<subhead><![CDATA[9.5 mm未満の薄さのため、膝の上でお気に入りのAndroidベースのゲームをプレイしたり、バッグに入れて持ち運んだりできます。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="400"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[長時間楽しめる]]></headline>
+						<subhead><![CDATA[最大10時間のバッテリ持続時間があれば、映画鑑賞、ゲームのプレイ、ソーシャルメディアへのアクセスを存分に楽しめます。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="7">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 7]]></title>
+	            <descr><![CDATA[Android搭載の魅力的な一台]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="265" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[鮮明なディスプレイ]]></headline>
+						<subhead><![CDATA[7インチHD（1,280 x 800）ディスプレイの前面および背面のカメラでスナップ写真やビデオを撮影できます。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="595" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[頼りになる1台]]></headline>
+						<subhead><![CDATA[インテル® Atomプロセッサー（1.6 GHzデュアルコア）でハイパフォーマンスをお約束します。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="300"  x="530" y="40" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[薄型軽量]]></headline>
+						<subhead><![CDATA[9.5 mm未満の薄さのため、膝の上でお気に入りのAndroidベースのゲームをプレイしたり、バッグに入れて持ち運んだりできます。]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="300"  x="565" y="25" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[長時間楽しめる]]></headline>
+						<subhead><![CDATA[最大10時間のバッテリ持続時間があれば、映画鑑賞、ゲームのプレイ、ソーシャルメディアへのアクセスを存分に楽しめます。]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+	</products>
+	
+</copy>

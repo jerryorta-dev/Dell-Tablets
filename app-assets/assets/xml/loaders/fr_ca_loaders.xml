@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+   <LoaderMax name="master" maxConnections="1" load="false" >
+   		<LoaderMax name="screen0" maxConnections="1" load="false" >
+            <LoaderMax name="acreen0AllLoRes" load="false" >
+                <LoaderMax name="screen0ImagesLoRes" type="image"  maxConnections="1" load="false" >
+                     <ImageLoader name="screen0ImagesLoRes0" url="landing-page-tablets-venue11-pro-compact-clarity-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen0ImagesLoRes1" url="landing-page-tablets-venue11-pro-keyboard-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen0ImagesLoRes2" url="landing-page-tablets-venue11-pro-power-up-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen0ImagesLoRes3" url="landing-page-tablets-venue11-pro-connectivity-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen0ImagesLoRes4" url="landing-page-tablets-venue11-pro-high-perf-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                </LoaderMax>
+                <LoaderMax name="screen0SwfsLoRes" type="swf"  maxConnections="1"  load="false"  >
+                    <SWFLoader name="screen0SwfsLoRes0"  url="venuepro11_midland_360_win_504x375.swf"  scaleMode="proportionalOutside" x="308" y="75"  width="504" height="375" />
+                </LoaderMax>
+            </LoaderMax>
+
+            <LoaderMax name="screen0ImagesHiRes" type="image" maxConnections="1" load="false" >
+                 <ImageLoader name="screen0ImagesHiRes0" url="landing-page-tablets-venue11-pro-compact-clarity-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen0ImagesHiRes1" url="landing-page-tablets-venue11-pro-keyboard-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen0ImagesHiRes2" url="landing-page-tablets-venue11-pro-power-up-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen0ImagesHiRes3" url="landing-page-tablets-venue11-pro-connectivity-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen0ImagesHiRes4" url="landing-page-tablets-venue11-pro-high-perf-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+            </LoaderMax>
+
+            <LoaderMax name="screen0SwfsHiRes" type="swf" maxConnections="1" load="false"  >
+                <SWFLoader name="screen0SwfsHiRes0"  url="venuepro11_midland_360_win_2015x1500.swf" maxConnections="1" autoPlay="false"  x="308" y="75"  width="504" height="375" scaleMode="proportionalOutside" crop="false"  />
+            </LoaderMax>
+        </LoaderMax>
+        <LoaderMax name="screen1" maxConnections="1" load="false" >
+            <LoaderMax name="acreen1AllLoRes" load="false" >
+                <LoaderMax name="screen1ImagesLoRes" type="image" maxConnections="1" load="false" >
+                     <ImageLoader name="screen1ImagesLoRes0" url="landing-page-tablets-venue8-pro-brilliant-clarity-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen1ImagesLoRes1" url="landing-page-tablets-venue8-pro-photo-ops-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen1ImagesLoRes2" url="landing-page-tablets-venue8-pro-OS-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen1ImagesLoRes3" url="landing-page-tablets-venue8-pro-high-perf-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen1ImagesLoRes4" url="landing-page-tablets-venue8-pro-productivity-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                </LoaderMax>
+                <LoaderMax name="screen1SwfsLoRes" type="swf" maxConnections="1" load="false" >
+                    <SWFLoader name="screen1SwfsLoRes0"  url="venupro8_bellaire_360_win_280x375.swf"  maxConnections="1" autoPlay="false"  x="430" y="90"  width="280" height="375" scaleMode="proportionalOutside" crop="false" />
+                </LoaderMax>
+            </LoaderMax>
+
+            <LoaderMax name="screen1ImagesHiRes" type="image" maxConnections="1" load="false" zoomMin=".36401" >
+                 <ImageLoader name="screen1ImagesHiRes0" url="landing-page-tablets-venue8-pro-brilliant-clarity-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen1ImagesHiRes1" url="landing-page-tablets-venue8-pro-photo-ops-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen1ImagesHiRes2" url="landing-page-tablets-venue8-pro-OS-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen1ImagesHiRes3" url="landing-page-tablets-venue8-pro-high-perf-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen1ImagesHiRes4" url="landing-page-tablets-venue8-pro-productivity-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+            </LoaderMax>
+
+            <LoaderMax name="screen1SwfsHiRes" type="swf" maxConnections="1" load="false" >
+                <SWFLoader name="screen1SwfsHiRes0"  url="venupro8_bellaire_360_win_1118x1500.swf"  maxConnections="1" autoPlay="false"  x="430" y="90"  width="280" height="375" scaleMode="proportionalOutside" crop="false" />
+            </LoaderMax>
+        </LoaderMax>
+        <LoaderMax name="screen2" maxConnections="1" load="false" >
+            <LoaderMax name="acreen2AllLoRes" load="false" >
+                <LoaderMax name="screen2ImagesLoRes" type="image" maxConnections="1" load="false" >
+                     <ImageLoader name="screen2ImagesLoRes0" url="landing-page-tablets-venue8-high-res-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen2ImagesLoRes1" url="landing-page-tablets-venue8-power-player-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen2ImagesLoRes2" url="landing-page-tablets-venue8-thin-and-light-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen2ImagesLoRes3" url="landing-page-tablets-venue8-power-up-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen2ImagesLoRes4" url="landing-page-tablets-venue8-power-up-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                </LoaderMax>
+                <LoaderMax name="screen2SwfsLoRes" type="swf" maxConnections="1" load="false" >
+                    <SWFLoader name="screen2SwfsLoRes0"  url="Venue-8-965x600.swf"  maxConnections="1" autoPlay="false"  x="430" y="90"  width="292" height="375" scaleMode="proportionalOutside" crop="false"  />
+                </LoaderMax>
+            </LoaderMax>
+
+            <LoaderMax name="screen2ImagesHiRes" type="image" maxConnections="1" load="false" zoomMin=".36401" >
+                 <ImageLoader name="screen2ImagesHiRes0" url="landing-page-tablets-venue8-high-res-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen2ImagesHiRes1" url="landing-page-tablets-venue8-power-player-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen2ImagesHiRes2" url="landing-page-tablets-venue8-thin-and-light-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen2ImagesHiRes3" url="landing-page-tablets-venue8-power-up-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen2ImagesHiRes4" url="landing-page-tablets-venue8-power-up-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+            </LoaderMax>
+
+            <LoaderMax name="screen2SwfsHiRes" type="swf" maxConnections="1" load="false"  >
+                <SWFLoader name="screen2SwfsHiRes0"  url="Venue-8-2895x1500.swf" maxConnections="1" autoPlay="false"  x="430" y="90"  width="292" height="375" scaleMode="proportionalOutside" crop="false"  />
+            </LoaderMax>
+        </LoaderMax>
+        <LoaderMax name="screen3" maxConnections="1" load="false" >
+            <LoaderMax name="acreen3AllLoRes" load="false" >
+                <LoaderMax name="screen3ImagesLoRes" type="image" maxConnections="1" load="false" >
+                     <ImageLoader name="screen3ImagesLoRes0" url="landing-page-tablets-venue7-high-res-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen3ImagesLoRes1" url="landing-page-tablets-venue7-power-player-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen3ImagesLoRes2" url="landing-page-tablets-venue7-thin-and-light-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen3ImagesLoRes3" url="landing-page-tablets-venue7-power-up-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                     <ImageLoader name="screen3ImagesLoRes4" url="landing-page-tablets-venue7-power-up-965x500.jpg" width="965" height="500" scaleMode="proportionalOutside" crop="false" />
+                </LoaderMax>
+                <LoaderMax name="screen3SwfsLoRes" type="swf" maxConnections="1" load="false" >
+                    <SWFLoader name="screen3SwfsLoRes0"  url="Venue-7-965x600.swf"  maxConnections="1" autoPlay="false"  x="430" y="90"  width="292" height="375" scaleMode="proportionalOutside" crop="false" />
+                </LoaderMax>
+            </LoaderMax>
+
+            <LoaderMax name="screen3ImagesHiRes" type="image" maxConnections="1" load="false" zoomMin=".36401" >
+                 <ImageLoader name="screen3ImagesHiRes0" url="landing-page-tablets-venue7-high-res-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen3ImagesHiRes1" url="landing-page-tablets-venue7-power-player-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen3ImagesHiRes2" url="landing-page-tablets-venue7-thin-and-light-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen3ImagesHiRes3" url="landing-page-tablets-venue7-power-up-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+                 <ImageLoader name="screen3ImagesHiRes4" url="landing-page-tablets-venue7-power-up-2651x1374.jpg" width="2651" height="1377" scaleMode="proportionalOutside" crop="false" />
+            </LoaderMax>
+
+            <LoaderMax name="screen3SwfsHiRes" type="swf" maxConnections="1" load="false" zoomMin=".36401" >
+                <SWFLoader name="screen3SwfsHiRes0"  url="Venue-7-2895x1500.swf" maxConnections="1" autoPlay="false"  x="430" y="90"  width="292" height="375" scaleMode="proportionalOutside" crop="false" />
+            </LoaderMax>
+        </LoaderMax>
+   </LoaderMax>
+</config>

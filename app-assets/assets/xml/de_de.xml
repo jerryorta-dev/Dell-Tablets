@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>de</language>
+    <embedFonts>true</embedFonts>
+    <intro>
+        <title callOutWidth="800"  x="146" y="40" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[Wenn Sie den perfekten Tablet-PC gefunden haben,]]></title>
+        <title callOutWidth="500"  x="464" y="78" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[ist alles]]></title>
+        <title callOutWidth="500"  x="456" y="135" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[möglich.]]></title>
+        <headline callOutWidth="800"  x="38" y="19" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[Lernen Sie unsere erfolgreichste Produktfamilie kennen.]]></headline>
+        <subhead callOutWidth="500"  x="38" y="117" color="0x444444" expandDirection="expandDown" backgroundAlpha="0"><![CDATA[Die Tablet-PCs von Dell bieten herausragende Flexibilität und großartige Auswahl, sodass Sie bequem und intuitiv im Internet surfen, auf Anwendungen zugreifen und Daten teilen können.]]></subhead>
+        <cta callOutWidth="500"  x="38" y="200" color="0x0085c3" expandDirection="expandDown" backgroundAlpha="0" ><![CDATA[Weitere Informationen ›]]></cta>
+    	<introView altDisplay="true"><![CDATA[hide venue 8 and 7 for regions]]></introView>
+    </intro>
+    <shell>
+        <nav>
+        	<topLabel x="10"><![CDATA[Arbeiten]]></topLabel>
+        	<bottomLabel x="12"><![CDATA[Spielen]]></bottomLabel>
+            <item id="0" progressBarWidth="112">
+                <title><![CDATA[Dell Venue 11 Pro]]></title>
+                <descr><![CDATA[Das Kraftpaket für Profis]]></descr>
+            </item>
+            <item id="1"  progressBarWidth="112">
+                <title><![CDATA[Dell Venue 8 Pro]]></title>
+                <descr><![CDATA[Der Begleiter für mehr Produktivität]]></descr>
+            </item>
+            <item id="2"  progressBarWidth="84">
+                <title><![CDATA[Dell Venue 8]]></title>
+                <descr><![CDATA[Der Liebling der Verbraucher]]></descr>
+            </item>
+            <item id="3" progressBarWidth="84">
+                <title><![CDATA[Dell Venue 7]]></title>
+                <descr><![CDATA[Der Liebling der Verbraucher]]></descr>
+            </item>
+        </nav>
+        <buttons>
+        	<threeSixtyIcon>
+                <label><![CDATA[]]></label>
+            </threeSixtyIcon>
+            <cameraIcon>
+                <label><![CDATA[Merkmale]]></label>
+            </cameraIcon>
+        </buttons>
+    </shell>
+    
+    <products>
+	    <productScreen name="11pro">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 11 Pro]]></title>
+	            <descr><![CDATA[Das Kraftpaket für Profis mit Windows 8.1]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="245" y="20" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[Brillante Bildqualität  ]]></headline>
+						<subhead><![CDATA[Das 10,8-Zoll-Display in Full HD (1080p) mit Unterstützung für Dell Active Stylus und 10-Punkt-Touchscreen bietet den größeren Durchblick.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="270" x="265" y="40" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[Grenzenlose Flexibilität]]></headline>
+						<subhead><![CDATA[Dank der abnehmbaren Tastatur in voller Größe können Sie Ihren Tablet-PC im Handumdrehen in ein Notebook mit vollständiger Dockingfunktion verwandeln.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="290" x="290" y="40" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[Endlich durchstarten]]></headline>
+						<subhead><![CDATA[Praktisch unbegrenztes Arbeiten mit bis zu 10 Stunden Akkulaufzeit und austauschbarem Akku. Mit der optional erhältlichen mobilen Tastatur mit integriertem Akku profitieren Sie von einer noch längeren Laufzeit zwischen zwei Ladezyklen.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="360" x="530" y="35" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[Konferenztechnologie]]></headline>
+						<subhead><![CDATA[Mit der 2-MP-Kamera vorne und der 8-MP-Kamera hinten, der SRS Premium-Audioqualität und der anpassbaren Geräuschunterdrückung mit zwei Mikrofonen für Videokonferenzen und Softphone sind Sie auch für Remote-Sitzungen bestens gerüstet.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="4" callOutWidth="300" x="230" y="0" color="0x1181c1" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[Hohe Leistung ]]></headline>
+						<subhead><![CDATA[Mehr Geschwindigkeit mit einem leistungsstarken Intel® Atom™ Prozessor (2,4 GHz Quad Core)]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="8pro">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 8 Pro]]></title>
+	            <descr><![CDATA[Der ultimative Begleiter für mehr Produktivität mit Windows 8.1]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300" x="245" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[Kompakt und klar]]></headline>
+						<subhead><![CDATA[Mit dem 8-Zoll-HD-IPS-Display (1.280 x 800) mit 10-Multitouch-Punkten machen Ihre Anwendungen noch mehr Spaß.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="550" y="0" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[Fotografieren]]></headline>
+						<subhead><![CDATA[Nehmen Sie mit der rückseitigen 5-MP-Kamera Fotos und Videos auf. Mit der 1,2-MP-Kamera auf der Vorderseite können Sie komfortabel an Video-Chats teilnehmen.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="340"  x="580" y="60" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[Aktualisiertes Betriebssystem]]></headline>
+						<subhead><![CDATA[Erleben Sie erweiterte Funktionen für aktuelle und ältere Anwendungen wie Netflix® mit Windows 8.1.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="300"  x="305" y="10" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[Hohe Leistung]]></headline>
+						<subhead><![CDATA[Geben Sie Vollgas mit dem Intel® Atom™ Prozessor der vierten Generation (1,8 GHz Quad Core™) und der Vollversion von Windows 8.1 (32 Bit).]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="4" callOutWidth="300"  x="630" y="20" color="0x6cc3c0" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[Höhere Produktivität]]></headline>
+						<subhead><![CDATA[Das optionale Wireless-Tastaturgehäuse und der Dell Active Stylus erleichtern die Eingabe von Notizen.]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="8">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 8]]></title>
+	            <descr><![CDATA[Der Liebling der Verbraucher – mit Android]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="605" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[Hohe Auflösung]]></headline>
+						<subhead><![CDATA[Mit dem 8-Zoll-HD-Display (1.280 x 800) und der 2-MP-Kamera vorne und der 5-MP-Kamera hinten machen Ihre Anwendungen noch mehr Spaß.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[Leistungsstark]]></headline>
+						<subhead><![CDATA[Hohe Leistung garantiert mit den Intel® Atom™ Prozessoren (2,0 GHz Dual Core™).]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="300"  x="235" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1">
+					<copyBox>
+						<headline><![CDATA[Flach und leicht]]></headline>
+						<subhead><![CDATA[Bei einer Höhe von weniger als 9,5 mm können Sie Ihre Android-basierten Lieblingsspiele auf dem Schoß spielen – oder den Tablet-PC einfach in Ihrer Tasche verstauen und mitnehmen.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="400"  x="245" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+					<copyBox>
+						<headline><![CDATA[Endlich durchstarten]]></headline>
+						<subhead><![CDATA[Filme anschauen, Spiele spielen oder sich in sozialen Netzwerken tummeln – mit bis zu 10 Stunden Akkulaufzeit.]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+		
+		<productScreen name="7">
+			<threeSixty callOutWidth="500"  x="575" y="-5" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0">
+				<title><![CDATA[Dell Venue 7]]></title>
+	            <descr><![CDATA[Der Liebling der Verbraucher – mit Android]]></descr>
+	        </threeSixty>
+			<slides>
+				<slide id="0" callOutWidth="300"  x="265" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[Lebendiges Display]]></headline>
+						<subhead><![CDATA[Machen Sie mit der Kamera auf der Vorder- und Rückseite Fotos oder Videos, die Sie dann auf dem 7-Zoll-HD-Display (1.280 x 800) anzeigen können.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="1" callOutWidth="300"  x="595" y="20" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[Leistungsstark]]></headline>
+						<subhead><![CDATA[Hohe Leistung garantiert mit den Intel® Atom Prozessoren (1,6 GHz Dual Core).]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="2" callOutWidth="300"  x="530" y="40" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="1" >
+					<copyBox>
+						<headline><![CDATA[Flach und leicht]]></headline>
+						<subhead><![CDATA[Bei einer Höhe von weniger als 9,5 mm können Sie Ihre Android-basierten Lieblingsspiele auf dem Schoß spielen – oder den Tablet-PC einfach in Ihrer Tasche verstauen und mitnehmen.]]></subhead>
+					</copyBox>
+				</slide>
+				
+				<slide id="3" callOutWidth="300"  x="565" y="25" color="0x77b91f" expandDirection="expandDown" backgroundAlpha="0" >
+					<copyBox>
+						<headline><![CDATA[Endlich durchstarten]]></headline>
+						<subhead><![CDATA[Filme anschauen, Spiele spielen oder sich in sozialen Netzwerken tummeln – mit bis zu 10 Stunden Akkulaufzeit.]]></subhead>
+					</copyBox>
+				</slide>
+			</slides>
+		</productScreen>
+	</products>
+	
+</copy>
